@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margins and paddings -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+
+    <!-- Chat message spacing -->
+    <dimen name="chat_message_margin">6dp</dimen>
+    <dimen name="chat_message_corner_radius">12dp</dimen>
+    <dimen name="chat_bottom_padding">16dp</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_medium">16sp</dimen>
+    <dimen name="text_large">18sp</dimen>
+</resources>
+

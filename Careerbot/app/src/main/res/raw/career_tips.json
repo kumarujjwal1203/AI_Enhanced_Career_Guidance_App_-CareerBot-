@@ -1,0 +1,99 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "title": "Networking is Key",
+      "content": "Building a strong professional network is crucial for career growth. Attend industry events, join online communities, and connect with professionals in your field. Remember, it's not just about what you know, but who you know.",
+      "category": "Career Growth"
+    },
+    {
+      "id": 2,
+      "title": "Tailor Your Resume",
+      "content": "Customize your resume for each job application. Highlight relevant skills and experiences that match the job description. Use keywords from the job posting to pass ATS (Applicant Tracking Systems).",
+      "category": "Resume Tips"
+    },
+    {
+      "id": 3,
+      "title": "Prepare for Behavioral Questions",
+      "content": "Use the STAR method (Situation, Task, Action, Result) to answer behavioral interview questions. Prepare examples that demonstrate your problem-solving skills, leadership, and teamwork.",
+      "category": "Interview Prep"
+    },
+    {
+      "id": 4,
+      "title": "Continuous Learning",
+      "content": "Stay updated with industry trends and technologies. Take online courses, earn certifications, and read industry publications. Continuous learning shows employers you're committed to growth.",
+      "category": "Career Growth"
+    },
+    {
+      "id": 5,
+      "title": "Build a Strong LinkedIn Profile",
+      "content": "Your LinkedIn profile is your online professional identity. Use a professional photo, write a compelling headline, and regularly update your experience. Engage with posts and share industry insights.",
+      "category": "Career Growth"
+    },
+    {
+      "id": 6,
+      "title": "Practice Coding Interviews",
+      "content": "For technical roles, practice coding problems on platforms like LeetCode and HackerRank. Focus on data structures, algorithms, and problem-solving patterns. Time yourself to simulate real interviews.",
+      "category": "Interview Prep"
+    },
+    {
+      "id": 7,
+      "title": "Showcase Your Projects",
+      "content": "Create a portfolio of your work. Include GitHub repositories, personal projects, and case studies. Demonstrating real-world applications of your skills is more valuable than just listing them.",
+      "category": "Resume Tips"
+    },
+    {
+      "id": 8,
+      "title": "Ask Thoughtful Questions",
+      "content": "At the end of an interview, ask questions that show your interest and research. Ask about team culture, growth opportunities, and challenges the team faces. This demonstrates engagement.",
+      "category": "Interview Prep"
+    },
+    {
+      "id": 9,
+      "title": "Develop Soft Skills",
+      "content": "Technical skills get you interviews, but soft skills get you hired. Focus on communication, teamwork, adaptability, and emotional intelligence. These are highly valued by employers.",
+      "category": "Career Growth"
+    },
+    {
+      "id": 10,
+      "title": "Follow Up After Interviews",
+      "content": "Send a thank-you email within 24 hours of your interview. Personalize it by mentioning specific points from your conversation. This shows professionalism and keeps you top of mind.",
+      "category": "Interview Prep"
+    },
+    {
+      "id": 11,
+      "title": "Quantify Your Achievements",
+      "content": "Use numbers and metrics in your resume. Instead of 'Improved sales,' write 'Increased sales by 30% in Q2.' Quantifiable achievements are more impactful and credible.",
+      "category": "Resume Tips"
+    },
+    {
+      "id": 12,
+      "title": "Stay Positive During Job Search",
+      "content": "Job searching can be challenging. Stay positive, maintain a routine, and celebrate small wins. Rejection is part of the process - learn from each experience and keep moving forward.",
+      "category": "Career Growth"
+    },
+    {
+      "id": 13,
+      "title": "Research the Company",
+      "content": "Before an interview, thoroughly research the company. Understand their mission, values, recent news, and products. This helps you tailor your answers and shows genuine interest.",
+      "category": "Interview Prep"
+    },
+    {
+      "id": 14,
+      "title": "Keep Your Resume Concise",
+      "content": "Aim for a one-page resume if you have less than 10 years of experience. Use bullet points, clear formatting, and white space. Make it easy for recruiters to scan quickly.",
+      "category": "Resume Tips"
+    },
+    {
+      "id": 15,
+      "title": "Build Your Personal Brand",
+      "content": "Define what makes you unique professionally. Share your expertise through blog posts, social media, or speaking engagements. A strong personal brand can open doors to opportunities.",
+      "category": "Career Growth"
+    }
+  ]
+}
+
+
+
+
+

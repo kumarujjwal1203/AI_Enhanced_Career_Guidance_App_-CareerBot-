@@ -1,0 +1,184 @@
+{
+  "quizzes": [
+    {
+      "topic": "Java",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the default value of a boolean variable in Java?",
+          "options": ["true", "false", "null", "0"],
+          "correct": 1
+        },
+        {
+          "id": 2,
+          "question": "Which keyword is used to inherit a class in Java?",
+          "options": ["extends", "implements", "inherits", "super"],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What is the size of an int variable in Java?",
+          "options": ["16 bits", "32 bits", "64 bits", "8 bits"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Which method is used to start a thread in Java?",
+          "options": ["run()", "start()", "begin()", "execute()"],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is the parent class of all classes in Java?",
+          "options": ["Object", "Class", "Super", "Parent"],
+          "correct": 0
+        }
+      ]
+    },
+    {
+      "topic": "Kotlin",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the default visibility modifier in Kotlin?",
+          "options": ["public", "private", "protected", "internal"],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "Which keyword is used to declare a nullable type in Kotlin?",
+          "options": ["?", "!", "null", "nullable"],
+          "correct": 0
+        },
+        {
+          "id": 3,
+          "question": "What is the difference between 'val' and 'var' in Kotlin?",
+          "options": ["val is mutable, var is immutable", "val is immutable, var is mutable", "Both are the same", "val is for variables, var is for constants"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Which function is used for string interpolation in Kotlin?",
+          "options": ["$", "${}", "format()", "interpolate()"],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is a data class in Kotlin?",
+          "options": ["A class that holds data only", "A class with automatically generated equals(), hashCode(), and toString()", "A database class", "A class for data structures"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "topic": "Android",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the minimum SDK version required for modern Android development?",
+          "options": ["API 21", "API 24", "API 26", "API 30"],
+          "correct": 0
+        },
+        {
+          "id": 2,
+          "question": "Which lifecycle method is called when an Activity becomes visible?",
+          "options": ["onCreate()", "onStart()", "onResume()", "onVisible()"],
+          "correct": 2
+        },
+        {
+          "id": 3,
+          "question": "What is the purpose of ViewBinding in Android?",
+          "options": ["To bind data to views", "To replace findViewById()", "To handle click events", "To manage layouts"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Which component is used for background tasks in Android?",
+          "options": ["Activity", "Service", "BroadcastReceiver", "ContentProvider"],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "What is SharedPreferences used for in Android?",
+          "options": ["Storing large files", "Storing key-value pairs", "Database operations", "Network requests"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "topic": "Data Structures",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the time complexity of accessing an element in an array by index?",
+          "options": ["O(n)", "O(log n)", "O(1)", "O(n log n)"],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "Which data structure follows LIFO (Last In First Out) principle?",
+          "options": ["Queue", "Stack", "Array", "Linked List"],
+          "correct": 1
+        },
+        {
+          "id": 3,
+          "question": "What is the time complexity of binary search?",
+          "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+          "correct": 1
+        },
+        {
+          "id": 4,
+          "question": "Which data structure is best for implementing a priority queue?",
+          "options": ["Array", "Linked List", "Heap", "Stack"],
+          "correct": 2
+        },
+        {
+          "id": 5,
+          "question": "What is the space complexity of a hash table?",
+          "options": ["O(1)", "O(n)", "O(log n)", "O(n²)"],
+          "correct": 1
+        }
+      ]
+    },
+    {
+      "topic": "Algorithms",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the time complexity of Bubble Sort in the worst case?",
+          "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+          "correct": 2
+        },
+        {
+          "id": 2,
+          "question": "Which algorithm is used to find the shortest path in a graph?",
+          "options": ["BFS", "DFS", "Dijkstra's Algorithm", "All of the above"],
+          "correct": 3
+        },
+        {
+          "id": 3,
+          "question": "What is the divide and conquer approach used in?",
+          "options": ["Merge Sort", "Quick Sort", "Binary Search", "All of the above"],
+          "correct": 3
+        },
+        {
+          "id": 4,
+          "question": "What is the time complexity of Merge Sort?",
+          "options": ["O(n)", "O(n log n)", "O(n²)", "O(log n)"],
+          "correct": 1
+        },
+        {
+          "id": 5,
+          "question": "Which algorithm is used for pattern matching in strings?",
+          "options": ["KMP Algorithm", "Boyer-Moore", "Rabin-Karp", "All of the above"],
+          "correct": 3
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

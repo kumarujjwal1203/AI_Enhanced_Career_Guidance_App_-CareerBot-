@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Primary Colors - Professional Blue -->
+    <color name="purple_200">#B39DDB</color>
+    <color name="purple_500">#6750A4</color>
+    <color name="purple_700">#4F378B</color>
+    <color name="purple_50">#F3E5F5</color>
+    <color name="purple_100">#E1BEE7</color>
+    
+    <!-- Accent Colors -->
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="blue_700">#1976D2</color>
+    <color name="red">#F44336</color>
+    
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Material 3 Surface Colors (Light Mode) -->
+    <color name="surface">#FFFBFE</color>
+    <color name="surface_variant">#F7F2FA</color>
+    <color name="surface_container">#F3EDF7</color>
+    <color name="surface_container_high">#ECE6F0</color>
+    <color name="surface_container_highest">#E6E0E9</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_variant">#49454F</color>
+    
+    <!-- Material 3 Primary Colors (Light Mode) -->
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#EADDFF</color>
+    <color name="md_theme_light_onPrimaryContainer">#21005D</color>
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#E8DEF8</color>
+    <color name="md_theme_light_onSecondaryContainer">#1D192B</color>
+    <color name="md_theme_light_tertiary">#7D5260</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FFD8E4</color>
+    <color name="md_theme_light_onTertiaryContainer">#31111D</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_onBackground">#1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E7E0EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#49454F</color>
+    <color name="md_theme_light_outline">#79747E</color>
+    <color name="md_theme_light_inverseOnSurface">#F4EFF4</color>
+    <color name="md_theme_light_inverseSurface">#313033</color>
+    <color name="md_theme_light_inversePrimary">#D0BCFF</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_surfaceTint">#6750A4</color>
+    <color name="md_theme_light_outlineVariant">#CAC4D0</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    
+    <!-- Chat Bubble Colors (Light Mode) - High Contrast -->
+    <color name="chat_user_text">#0D47A1</color>   <!-- dark blue -->
+    <color name="chat_bot_text">#4A148C</color>    <!-- deep purple -->
+    <color name="chat_user_bg">#E3F2FD</color>
+    <color name="chat_bot_bg">#F3E5F5</color>
+
+    
+    <!-- Input Field Colors (Light Mode) -->
+    <color name="input_background">#FFFFFF</color>
+    <color name="input_text">#1C1B1F</color>
+    
+    <!-- Gradient Colors for Login/Signup -->
+    <color name="gradient_start">#667EEA</color>
+    <color name="gradient_end">#764BA2</color>
+    <color name="gradient_light_start">#E0E7FF</color>
+    <color name="gradient_light_end">#F3E8FF</color>\
+    <color name="user_message_background">#AED581</color> <!-- A light green color -->
+
+
+    <!-- Card Shadow -->
+    <color name="card_shadow">#1A000000</color>
+    
+    <!-- Additional UI Colors -->
+    <color name="primary">#6750A4</color>
+    <color name="background">#FFFBFE</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="success">#4CAF50</color>
+</resources>

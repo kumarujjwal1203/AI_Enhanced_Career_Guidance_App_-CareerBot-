@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_chatbot"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Chatbot" />
+
+    <item
+        android:id="@+id/nav_career_tips"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Tips" />
+
+    <item
+        android:id="@+id/nav_resources"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="Resources" />
+
+    <item
+        android:id="@+id/nav_progress"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="Progress" />
+
+    <item
+        android:id="@+id/nav_quiz"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="Quiz" />
+</menu>

@@ -1,0 +1,9 @@
+
+
+
+
+<resources>
+    <string name="app_name">Careerbot</string>
+    <string name="content_desc_ai_avatar">AI avatar</string>
+    <string name="content_desc_message_status">Message status</string>
+</resources>
